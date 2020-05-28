@@ -55,5 +55,3 @@ The game consists of two levels. The controls of the game are mentioned below.
 ## Made by
 Ankit Kumar
 
-## Assets provided by
-[Unity Learn](https://learn.unity.com/)
