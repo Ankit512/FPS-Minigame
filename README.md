@@ -14,6 +14,8 @@ The successful design of the FPS Minigame with correct direction, attractive gra
 will give the best experience to play the game. The main design element of this type of games is combat and action centered. This game
 comes also comes under role player category too, because player has to play with protagonist point of view.
 
+The game consists of two levels. The controls of the game is mentioned below.
+
 
 ## Conetents in the folder
 1. A game executable file by the name of **FPS Minigame**. Located in the **Builds** folder.
@@ -36,4 +38,15 @@ comes also comes under role player category too, because player has to play with
 5. Graphic card 1GB or higher
 
 
+## Controls
 
+![](images/intro.png)
+
+
+## In-Game Screenshots
+
+### Level-1
+![](images/scene2.png)
+
+### Level-2
+![](images/scene3.png)
