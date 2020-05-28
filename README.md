@@ -22,7 +22,7 @@ The game consists of two levels. The controls of the game are mentioned below.
 2. The C# scripts used in making the game. Located in the **Scripts** folder.
 
 
-## How to launch the game?
+## How do I launch the game?
 1. Download the entire repo.
 2. Navigate to the **FPS Minigame.exe** file present in the **Builds** folder.
 3. While launching the game you'll have an option to customize your game settings. You can adjust the settings as for your own comfort or you can play with the preffered settings. Click **Play!** to launch the game.
