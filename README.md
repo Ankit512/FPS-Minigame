@@ -17,7 +17,7 @@ comes also comes under role player category too, because player has to play with
 The game consists of two levels. The controls of the game are mentioned below.
 
 
-## Conetents in the folder
+## Contents in the folder
 1. A game executable file by the name of **FPS Minigame**. Located in the **Builds** folder.
 2. The C# scripts used in making the game. Located in the **Scripts** folder.
 
