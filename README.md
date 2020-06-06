@@ -1,5 +1,5 @@
 # FPS Minigame
-This is a FPS game created using Unity3D and C# 
+This is an FPS game created using Unity3D and C# 
 
 
 ## Abstract 
