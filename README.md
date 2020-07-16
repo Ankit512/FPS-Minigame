@@ -60,7 +60,7 @@ The game consists of two levels. The controls of the game are mentioned below.
 
 ## Made by
 Ankit Kumar
-
+Subhradeep Panag
 
 ## Refrences
 - [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg)
